@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jiren4035
-- 👀 I’m interested in cyber security, artificial intelligence, SIEM, EDR
+- 👀 I’m interested in cyber security and artificial intelligence
 - 🌱 I’m currently learning artificial intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ziadazouqah@gmail.com
